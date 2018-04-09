@@ -1,6 +1,5 @@
 {\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
-{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fmodern\fcharset0 Courier-Bold;\f2\fnil\fcharset0 Consolas;
-}
+{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fmodern\fcharset0 Courier-Bold;}
 {\colortbl;\red255\green255\blue255;\red52\green52\blue52;\red249\green249\blue249;\red38\green38\blue38;
 }
 {\*\expandedcolortbl;;\cssrgb\c26667\c26667\c26667;\cssrgb\c98039\c98039\c98039;\cssrgb\c20000\c20000\c20000;
@@ -12,9 +11,8 @@
 \f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
 \outl0\strokewidth0 \strokec2 Git 
 \f1\b \cf4 \strokec4 is
-\f0\b0 \cf2 \strokec2  a version control system.\
+\f0\b0 \cf2 \strokec2  a distributed version control system.\
 Git 
 \f1\b \cf4 \strokec4 is
-\f0\b0 \cf2 \strokec2  free software.
-\f2 \
+\f0\b0 \cf2 \strokec2  free software.\
 }
